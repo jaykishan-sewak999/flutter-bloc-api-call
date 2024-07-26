@@ -1,6 +1,6 @@
-# git_block_demo
+# Flutter app to call API using BLOC architecture
 
-A new Flutter project.
+This project allows developers to learn about how to make an API call using BLOC architecture and display user data that received from API in Listview control.
 
 ## Getting Started
 
